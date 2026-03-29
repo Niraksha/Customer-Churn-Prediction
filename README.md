@@ -35,4 +35,4 @@ Tuned XGBoost was selected as the final model. It correctly identified 273 out o
 Churn Recall improved significantly after applying SMOTE. Logistic Regression recall jumped from 0.20 to 0.58 – proving the original poor performance was a data problem , not a model problem. 
 Churn Recall improved significantly after applying SMOTE. Logistic Regression recall jumped from 0.20 to 0.58 – proving the original poor performance was a data problem , not a model problem. 
 
-Refer the project_analysis.pdf for model comparison summary
+- Refer the project_analysis.pdf for model comparison summary
