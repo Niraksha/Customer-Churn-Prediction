@@ -8,11 +8,11 @@ Source : Bank Customer Churn Prediction dataset
 Target variable : churn (1 = churned , 0 = stayed)
 # Tech Stack :
 - Python
-- Pandas , NumPy
-•	Matplotlib, Seaborn
-•	Scikit-learn
-•	XGBoost, LightGBM , CatBoost
-•	Imbalanced-learn (SMOTE)
+- Pandas & NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+- XGBoost, LightGBM , CatBoost
+- Imbalanced-learn (SMOTE)
 # Project Workflow :
 1.	Data loading and exploration.
 2.	Preprocessing – dropped irrelevant columns, one-hot encoding.
@@ -23,12 +23,12 @@ Target variable : churn (1 = churned , 0 = stayed)
 7.	Evaluated using accuracy, recall, F1, ROC-AUC and PR Curve.
 8.	Built a live prediction input using the final model.
 # Models Used :
-•	Logistic Regression
-•	Random Forest
-•	XGBoost
-•	Voting Ensemble
-•	Tuned XGBoost
-•	Rule Based
+- Logistic Regression
+- Random Forest
+- XGBoost
+- Voting Ensemble
+- Tuned XGBoost
+- Rule Based
 # Best Selection Model :
 Tuned XGBoost was selected as the final model. It correctly identified 273 out of 393 churners and had the highest churn recall of 0.69.
 # Key Finding :
