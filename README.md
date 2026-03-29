@@ -7,8 +7,8 @@ Source : Bank Customer Churn Prediction dataset
 10,000 Customer Records
 Target variable : churn (1 = churned , 0 = stayed)
 # Tech Stack :
-•	Python
-•	Pandas , NumPy
+- Python
+- Pandas , NumPy
 •	Matplotlib, Seaborn
 •	Scikit-learn
 •	XGBoost, LightGBM , CatBoost
